@@ -10,6 +10,10 @@ Found out that a process can write something and then read the same from a pipe.
 
 When is sizeof computed - compile time or runtime? What about VLAs?
 
+## 3. branch\_prediction.cpp
+
+Demonstrates performance penalty for bad branch prediction.
+
 
 
 
