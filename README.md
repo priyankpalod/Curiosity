@@ -14,6 +14,7 @@ When is sizeof computed - compile time or runtime? What about VLAs?
 
 Demonstrates performance penalty for bad branch prediction.
 
+## 4. huge\_malloc.c
 
-
+Learnt that linux does lazy allocation.
 
